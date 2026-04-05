@@ -40,6 +40,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-   git add -A
-git commit -m "Chore: rename Assestes to assets"
-git push
